@@ -11,7 +11,7 @@ var diaSem = agora.getDay();
 */
 
 
-console.log(diaSem)
+//console.log(diaSem)
 
 switch(diaSem){
     case 0:
